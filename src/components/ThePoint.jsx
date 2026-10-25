@@ -27,7 +27,7 @@ export default function ThePoint() {
           ]}
         />
         <Typewriter
-          text="I like you, Roishni. Not in a filmy, dramatic way — just in the quiet, I-look-forward-to-your-calls kind of way."
+          text="I like you, Roshni. Not in a filmy, dramatic way — just in the quiet, I-look-forward-to-your-calls kind of way."
           className="mx-auto mt-5 max-w-sm text-lg leading-relaxed text-stone-600 sm:text-xl"
           startDelay={600}
         />

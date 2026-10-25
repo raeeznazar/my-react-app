@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-A single-page React site: a private, personal proposal page addressed to "Roishni" (see [story.md](story.md) for the full script/copy and style direction — tone, line-by-line reveal structure, and the closing "Yes" / "Chaanta maarun?" buttons). The page is meant to be mobile-friendly, single-scroll, and not indexed/searchable.
+A single-page React site: a private, personal proposal page addressed to "Roshni" (see [story.md](story.md) for the full script/copy and style direction — tone, line-by-line reveal structure, and the closing "Yes" / "Chaanta maarun?" buttons). The page is meant to be mobile-friendly, single-scroll, and not indexed/searchable.
 
 The codebase is currently the unmodified Vite + React scaffold (`src/App.jsx` still renders the default "Get started" counter demo) — the actual content from story.md has not been built yet. `animejs` and `gsap` are installed as dependencies for the intended fade-in/reveal animations but are not yet used anywhere in `src/`.
 

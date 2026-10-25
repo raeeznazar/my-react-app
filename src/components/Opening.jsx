@@ -22,7 +22,7 @@ export default function Opening() {
         <span className="animate-pulse-glow absolute top-1/2 left-1/2 -z-10 h-72 w-72 -translate-x-1/2 -translate-y-1/2 rounded-full bg-amber-200/50 blur-3xl" />
         <div className="relative z-10 max-w-md space-y-5">
           <Typewriter
-            text="Hey Roishni. 🌷"
+            text="Hey Roshni. 🌷"
             className="text-balance font-serif text-3xl tracking-tight text-stone-700 sm:text-4xl"
             onDone={() => setGreeted(true)}
           />

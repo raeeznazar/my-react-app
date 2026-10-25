@@ -1,7 +1,7 @@
-# Our Story — For Roishni
+# Our Story — For Roshni
 
 ## Opening
-- "Hey Roishni."
+- "Hey Roshni."
 - "Before you scroll further — chaanta maarun? 😄"
 - "(Don't worry, this isn't that kind of page.)"
 
@@ -18,7 +18,7 @@
 ## The Point of This Page
 - "I'm not great at saying things out loud without overthinking them."
 - "So I made this instead."
-- "I like you, Roishni. Not in a filmy, dramatic way — just in the quiet, I-look-forward-to-your-calls kind of way."
+- "I like you, Roshni. Not in a filmy, dramatic way — just in the quiet, I-look-forward-to-your-calls kind of way."
 
 ## The Ask
 - Headline: "So — will you be mine?"
